@@ -1,4 +1,4 @@
-Python packages the script require, along with the minimum versions needed
+The code script require Python packages, along with the minimum versions needed below
 
 pandas>=2.0
 numpy>=1.24
