@@ -1,0 +1,8 @@
+Python packages the script require, along with the minimum versions needed
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+shap>=0.44
+matplotlib>=3.7
